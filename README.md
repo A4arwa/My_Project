@@ -20,13 +20,14 @@ Process 1: Adding an event
 1- click on the plus (+) button.
 2- insert a name for the event, a duration time and the day of the event.
 3- click "save" to save the event.
-,,,,,,,,,
+------------
 Process 2: Deleting an event
 1- click on the existing event.
 2- click on "edit" and "delete".
-,,,,,,,,,
+------------
 Process 3: Editing an event
 1- click on the event.
 2- click on "edit" and change whatever you want.
 3- click on "save" to save the changes.
+------------
 
