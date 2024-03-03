@@ -4,14 +4,14 @@ Welcome to the user manual for Book4Me! This file is intended to provide you wit
 ------------
 B. System Requirements:
 Before installing Book4Me, please make sure your device meets the following requirements:
-Operating system: IOS.
-Processor: A13 Bionic Processor or highr.
+Operating system: Android.
+Processor: Dimensity 9200 Processor or highr.
 RAM: 4GB or higher.
 ------------
 C. Installation Instructions:
 To install Book4Me, please follow these steps:
-1- connect your device to the internet.
-2- open App Store application.
-3- search for Book4Me application and click download. 
+1- Connect your device to the internet.
+2- Google play application.
+3- Search for Book4Me application and click download. 
 ------------
 
